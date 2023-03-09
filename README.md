@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Pranav.l93@gmail.com**
 
-- 📄 Here is my Resume [https://drive.google.com/file/d/1NbSACi5445DdZ3HDi4MuWFYU9n0H4iTu/view?usp=sharing](https://drive.google.com/file/d/1NbSACi5445DdZ3HDi4MuWFYU9n0H4iTu/view?usp=sharing)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1NbSACi5445DdZ3HDi4MuWFYU9n0H4iTu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
