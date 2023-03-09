@@ -10,6 +10,7 @@
 - 📫 How to reach me **Pranav.l93@gmail.com**
 
 - 📄 Checkout my [Resume](https://drive.google.com/file/d/1NbSACi5445DdZ3HDi4MuWFYU9n0H4iTu/view?usp=sharing)
+- <a href="mailto:pranav.l93@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
