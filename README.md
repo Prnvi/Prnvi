@@ -38,15 +38,15 @@
  ---
  <h2>Github Info</h2>
  <details>	
-   <summary><b>⚡ Github Stats</b></summary>
+   <summary><b>Github Stats</b></summary>
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mansisisangiya&theme=vision-friendly-dark&show_icons=true&locale=en&hide_border=true" alt="mansisisangiya" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansisisangiya&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&langs_count=7&hide_border=true&hide=c" alt="mansisisangiya"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prnvi&theme=vision-friendly-dark&show_icons=true&locale=en&hide_border=true" alt="Pranavi" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnvi&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&langs_count=7&hide_border=true&hide=c" alt="pranavi"/>
  </details>
 
  <details>
   <summary><b>🔥 Github Streaks</b></summary>
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mansisisangiya&theme=vision-friendly-dark" alt="mansisisangiya" /></p>
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prnvi&theme=vision-friendly-dark" alt="mansisisangiya" /></p>
  </details>
 
 
