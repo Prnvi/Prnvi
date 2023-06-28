@@ -6,11 +6,11 @@
 
 - 🔭 I am looking for a Full-stack developer Role.
 
-- 👩🏻‍💻 I’m currently working on [e-vent](https://main--e-vent-app.netlify.app)
+- 👩🏻‍💻 I’m currently working as an intern at  Linked.Farm. [Click here]([https://main--e-vent-app.netlify.app](https://deploy-preview-116--imaginative-bombolone-395432.netlify.app/)).
 
 - 🌱 I’m currently learning **React, Bootstrap, Tailwind, NodeJS**
 
-- 📄 Checkout my [Resume](https://drive.google.com/file/d/1NbSACi5445DdZ3HDi4MuWFYU9n0H4iTu/view?usp=sharing)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1XT8qEVUQdOD3A9FW6_U_8GaVTjjVDlh7/view?usp=sharing)
 
  <a href="mailto:pranav.l93@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn" /></a>
 
