@@ -6,7 +6,7 @@
 
 - 🔭 I am looking for a Full-stack developer Role.
 
-- 👩🏻‍💻 I’m currently working as an intern at  Linked.Farm. [Click here]([https://main--e-vent-app.netlify.app](https://deploy-preview-116--imaginative-bombolone-395432.netlify.app/)).
+- 👩🏻‍💻 I’m currently working as an intern at  Linked.Farm. [Click here](https://main--e-vent-app.netlify.app](https://deploy-preview-116--imaginative-bombolone-395432.netlify.app/).
 
 - 🌱 I’m currently learning **React, Bootstrap, Tailwind, NodeJS**
 
