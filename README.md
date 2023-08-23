@@ -46,7 +46,7 @@
 
  <details>
   <summary><b>🔥 Github Streaks</b></summary>
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prnvi&theme=vision-friendly-dark" alt="mansisisangiya" /></p>
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prnvi&theme=vision-friendly-dark" alt="pranavi" /></p>
  </details>
 
 
