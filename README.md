@@ -6,9 +6,9 @@
 
 - 🔭 I am looking for a Full-stack developer Role.
 
-- 👩🏻‍💻 I’ve completed my internship at Linked.Farm. [Click here](https://deploy-preview-116--imaginative-bombolone-395432.netlify.app/).
+- 👩🏻‍💻 I’ve completed my internship at Linked.Farm. [Click here](https://deploy-preview-116--imaginative-bombolone-395432.netlify.app/) to take a look at the site.
 
-- 🌱 I’m currently learning **React, Bootstrap, Tailwind, NodeJS**
+- 🌱 My Stack **React,JavaScript, Bootstrap, Tailwind, NodeJS**
 
 - 📄 Checkout my [Resume](https://drive.google.com/file/d/1XT8qEVUQdOD3A9FW6_U_8GaVTjjVDlh7/view?usp=sharing)
 
