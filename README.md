@@ -4,14 +4,16 @@
 
 <img align="right" height="260px" alt="GIF" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" /> 
 
-- 🔭 I am looking for a Full-stack developer Role.
+- 🔭 I am looking for Frontend developer Roles.
+  
+- 🖥️ [My Portfolio](https://prnvi.github.io/my-portfolio/)
 
-- 👩🏻‍💻 I’ve completed my internship at Linked.Farm. [Click here](https://deploy-preview-116--imaginative-bombolone-395432.netlify.app/) to take a look at the site.
+- 👩🏻‍💻 I’ve done my internship at Linked.Farm. [Take a look!!](https://deploy-preview-116--imaginative-bombolone-395432.netlify.app/) 
 
 - 🌱 My Stack **React, JavaScript, Bootstrap, Tailwind, NodeJS**
 
-- 📄 Checkout my [Resume](https://drive.google.com/file/d/1XT8qEVUQdOD3A9FW6_U_8GaVTjjVDlh7/view?usp=sharing)
-
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1UH_vArYFAAlOnygLQwLp6Kk3_SV7_2H6/view?usp=drivesdk)
+  
  <a href="mailto:pranav.l93@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn" /></a>
 
 <h3 align="left">Connect with me:</h3>
