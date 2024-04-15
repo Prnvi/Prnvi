@@ -2,7 +2,7 @@
 <h1 align="center">Hi there👋, I'm Pranavi</h1>
 <h3 align="center">A passionate web developer.</h3>
 
-<img align="right" height="260px" alt="GIF" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" /> 
+<img align="right" height="260px" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif" /> 
 
 - 🔭 I am looking for Frontend developer Roles.
   
