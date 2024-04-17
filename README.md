@@ -6,13 +6,13 @@
 
 - 🔭 I am looking for Frontend developer Roles.
   
-- 🖥️ [My Portfolio](https://prnvi.github.io/my-portfolio/)
+- 🖥️ [My Portfolio](https://pranavilakkavajjala.in)
 
 - 👩🏻‍💻 I’ve done my internship at Linked.Farm. [Take a look!!](https://deploy-preview-116--imaginative-bombolone-395432.netlify.app/) 
 
 - 🌱 My Stack **React, JavaScript, Bootstrap, Tailwind, NodeJS**
 
-- 📄 Checkout my [Resume](https://drive.google.com/file/d/1UH_vArYFAAlOnygLQwLp6Kk3_SV7_2H6/view?usp=drivesdk)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/18cFMhJVhQbC3MwpfCF0K8X01sBJ7lsPm/view?usp=drivesdk)
   
  <a href="mailto:pranav.l93@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn" /></a>
 
